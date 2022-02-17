@@ -1,5 +1,7 @@
 # POTHOLE
 
+[Board Jira](https://natour21.atlassian.net/jira/software/projects/POT/boards/5)
+
 ## Descrizione sintetica
 Realizzare un sistema client-server che consenta la racconta e l’interrogazione di informazioni riguardanti la presenza di irregolarità (buche) su di una superficie.
 
